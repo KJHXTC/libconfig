@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2014 Morrowind.Xie.
+ * Copyright (C) morrowindxie@gmail.com (https://github.com/morrowind)
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
